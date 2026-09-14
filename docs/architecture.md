@@ -2,6 +2,8 @@
 
 Four components, each solving a specific failure mode I anticipated (or hit) while using an agent for real, consequential output.
 
+One note before the mechanism: everywhere below that says "the agent does X," read that as *within a session I start*. I open the tool, hand it a JD, and it runs the workflow described here for that session — there's no scheduler, no background process, no autonomy between sessions. The "wait" in stage 0 below is literal: it stops and I look at the screen before anything else happens.
+
 ## 1. A gate before expensive output
 
 Tailoring a resume and researching a company properly takes real time. Most of that time is wasted if the role was never a fit to begin with. So the workflow is split in two, with a hard stop in between:

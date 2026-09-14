@@ -7,6 +7,8 @@
   ✉️ srijanani.vel@gmail.com
 </p>
 
+> **Scope, stated upfront.** This is [Claude Code](https://claude.com/claude-code) — Anthropic's coding agent — executing a workflow I designed, started by hand each time I have a new job description to run through it. There's no standing process, no schedule, no autonomous loop running in the background. What this demonstrates is workflow design and grounding discipline, not agent-framework or tool-orchestration engineering. The exact line between those is spelled out in [What this doesn't claim to be](#what-this-doesnt-claim-to-be).
+
 ---
 
 ## What this is
